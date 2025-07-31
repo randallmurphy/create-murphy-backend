@@ -1,19 +1,54 @@
 {
   "name": "create-murphy-backend",
-  "version": "0.2.0",
-  "description": "Beta: Express + Mongoose backend generator by MoneyKingMurph",
+  "version": "1.0.4",
+  "description": "A backend scaffolding CLI that generates Express + MongoDB projects — made by MoneyKingMurph 👑",
   "main": "index.js",
   "bin": {
     "create-murphy-backend": "./index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/randallmurphy/create-murphy-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/randallmurphy/create-murphy-backend/issues",
+    "email": "rmurphy@perseverenow.org"
+  },
+  "homepage": "https://github.com/randallmurphy/create-murphy-backend#readme",
+  "author": {
+    "name": "Randall Murphy",
+    "email": "rmurphy@perseverenow.org",
+    "url": "https://www.linkedin.com/in/randal-murphy-529aa1346/"
+  },
+  "license": "MIT",
   "keywords": [
-    "generator",
-    "backend",
     "express",
     "mongoose",
-    "murphy"
+    "cli",
+    "backend",
+    "starter",
+    "generator",
+    "template",
+    "nodemon",
+    "scaffold",
+    "api",
+    "murphy",
+    "create",
+    "npx",
+    "bootstrap",
+    "project-starter"
   ],
-  "author": "Randall Murphy",
-  "license": "MIT",
-  "dependencies": {}
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
 }
