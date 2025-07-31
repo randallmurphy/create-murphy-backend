@@ -9,7 +9,7 @@ _“Because real bosses don’t code boilerplate.”_
 
 ---
 
-## 🎖️ Tech Flex (Badges That Slap)
+## 🎖️ Tech Flex 
 
 ### 📦 NPM Status  
 ![npm](https://img.shields.io/npm/v/create-murphy-backend?color=black&label=npm%20version&style=for-the-badge)  
