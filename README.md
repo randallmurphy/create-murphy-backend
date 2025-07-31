@@ -14,6 +14,7 @@ _“Because real bosses don’t code boilerplate.”_
 ### 📦 NPM Status  
 ![npm](https://img.shields.io/npm/v/create-murphy-backend?color=black&label=npm%20version&style=for-the-badge)  
 ![npm downloads](https://img.shields.io/npm/dt/create-murphy-backend?color=blueviolet&label=downloads&style=for-the-badge)  
+![npm weekly downloads](https://img.shields.io/npm/dw/create-murphy-backend?color=orange&label=weekly%20downloads&style=for-the-badge)
 ![npm monthly](https://img.shields.io/npm/dm/create-murphy-backend?color=darkgreen&label=monthly%20downloads&style=for-the-badge)
 
 ### 💼 Project Health  
@@ -34,13 +35,6 @@ _“Because real bosses don’t code boilerplate.”_
 ![stars](https://img.shields.io/github/stars/randallmurphy/create-murphy-backend?style=for-the-badge)
 
 [![Follow @randallmurphy on GitHub](https://img.shields.io/badge/GitHub-%40randallmurphy-181717?style=for-the-badge&logo=github)](https://github.com/randallmurphy)
-
----
-
-## 💎 MoneyKingMurph Banner
-
-![MoneyKingMurph Banner](https://cdn.dribbble.com/users/183545/screenshots/3945633/media/4b00ee0af061db3db4a2478c084c1d93.png)  
-*(Replace with your own banner URL for that personal touch)*
 
 ---
 
