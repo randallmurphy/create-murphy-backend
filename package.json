@@ -1,6 +1,6 @@
 {
   "name": "create-murphy-backend",
-  "version": "1.0.10",
+  "version": "1.0.9",
   "description": "A backend scaffolding CLI that generates Express + MongoDB projects — made by MoneyKingMurph 👑",
   "main": "index.js",
   "bin": {
@@ -14,7 +14,7 @@
     "url": "https://github.com/randallmurphy/create-murphy-backend/issues",
     "email": "rmurphy@perseverenow.org"
   },
-  "homepage": "https://www.linkedin.com/randal-murphy",
+  "homepage": "https://www.linkedin.com/in/randal-murphy-529aa1346/",
   "author": {
     "name": "Randall Murphy",
     "email": "rmurphy@perseverenow.org",
