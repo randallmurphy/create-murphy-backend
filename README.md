@@ -37,6 +37,13 @@ _“Because real bosses don’t code boilerplate.”_
 
 ---
 
+## 💎 MoneyKingMurph Banner
+
+![MoneyKingMurph Banner](https://cdn.dribbble.com/users/183545/screenshots/3945633/media/4b00ee0af061db3db4a2478c084c1d93.png)  
+*(Replace with your own banner URL for that personal touch)*
+
+---
+
 ## ⚡ What It Do
 
 This CLI spins up a clean Express + MongoDB backend, so you can skip the setup and get straight to building.
