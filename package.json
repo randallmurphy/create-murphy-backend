@@ -1,6 +1,6 @@
 {
   "name": "create-murphy-backend",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "description": "A backend scaffolding CLI that generates Express + MongoDB projects — made by MoneyKingMurph 👑",
   "main": "index.js",
   "bin": {
